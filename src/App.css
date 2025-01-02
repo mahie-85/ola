@@ -1,38 +1,437 @@
-.App {
-  text-align: center;
+.a1{
+  width: 100%;
+}
+.a2{
+
+  display: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.a3{
+text-align: center;
+font-size: 48px;
+font-weight:400 ;
+letter-spacing: -2px;
+margin-top: 80px;
+line-height: 60px;
+text-shadow:  1px 1px #92c83e;
+margin-bottom: 40px;
+}
+.a4{
+  width: 50%;
+
+  
+}
+.a5{
+  font-size: 28px;
+}  
+.a6{
+  font-size: 16px;
+}
+.a7{
+  font-size: 40px;
+}
+.a9{
+  display: none;
+}
+.aa1{
+  display: none;
+  
+}
+.b1{
+  font-size: 42px;
+  font-weight: 600;
+  margin-top: 350px;
+  margin-bottom: 80px;
+  text-shadow: 1px 1px #92c83e;
+  
+
+ }
+ .b0{
+  display: none;
+ }
+ .b3{
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  
+ }
+ .b4{
+  font-size: 22px;
+  text-shadow: 1px  lightgrey;
+ }
+ .b5{
+  display: none;
+ }
+ .b6{
+  margin-top: 150px;
+  margin-bottom: 200px;
+ }
+ .b8{
+  font-size: 48px;
+  font-weight: 600;
+  text-shadow: 1px 1px #92c83e;
+  margin-left: -20px;
+  line-height: 70px;
+  margin-top: 225px;
+  margin-bottom: 40px;
+  
+ }
+ .b9{
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 30px;
+  margin-left: 10px;
+
+ }
+ .b11{
+  font-size: 20px;
+  font-weight: 400;
+  color: gray;
+  margin-bottom: 30px;
+  margin-left: 10px;
+ }
+ .b12{
+  display: none;
+ }
+ .b15{
+  display: none;
+ }
+ .b16{
+  width: 100%;
+  padding-top: 200px;
+  float: right;
+  
+  
+ }
+ .b17{
+  font-size: 50px;
+  font-weight: 625;
+  text-shadow: 1px 1px #92c83e;
+  margin-left: 10px;
+  margin-top: 170px;
+  margin-bottom: -195px;
+  letter-spacing: -2px;
+  
+ }
+ .b18{
+  background-color: #f1f6e9;
+ }
+.b22{
+  font-size: 19px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  /* margin-top: 350px; */
+
+  
+}
+.b19{
+  font-size: 34px;
+  font-weight: 400;
+  margin-top: 300px;
+  margin-left: 30px;
+}
+.b20{
+  font-size: 20px;
+  color: #16aa51;
+  background-color: #daeed9;
+  margin-left: 200px;
+  margin-top: -40px;
+  padding: 10px;
+
+}
+.b23{
+  font-size: 28px;
+  font-weight: 600;
+  margin-left: 30px;
+
+}
+.b21{
+  width: 25%;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  
+}
+.b26{
+  padding: 20px;
+  width: 33%;
+  margin-top: 90px;
+}
+.b27{
+  font-size: 28px;
+  font-weight: 500;
+  margin-top: 60px;
+  margin-top: 130px;
+  font-weight: 600px;
+
+}
+.b28{
+  font-size: 28px;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.b29{
+font-size: 29px;
+font-weight: 600px;
+color: #16aa51;
+text-decoration: none;
+/* margin-left: 200px; */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.b33{
+  display: none;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.b31{
+  display: none;
+}
+.b34{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+}
+.swiper{
+  display: none;
+  width: 0;
+  height: 0;
+}
+.b29a{
+  display: none;
+}
+.webins{
+  margin-top: 60px;
+  margin-left: 15px;
+}
+@media only screen and (max-width:500px){
+  .b29{
+    display: none;
+  }
+  .webins{
+    display:none;
+  }
+  .swiper{
+    display: flex;
+    width: 100%;
+    height: auto;
+  }
+  .b32{
+    margin-left: 20px;
+  }
+  .b28{
+    margin-left: 20px;
+    font-size: 26px;
+  }
+ 
+  .b32{
+    display: flex;
+    font-size: 26px;
+    color: #16aa51;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+  }
+  .b29a{
+    display: flex;
+    font-size:25px;
+color: #16aa51;
+text-decoration: none;
+font-weight: 500;
+
+  }
+  .b31{
+    width: 95%;
+  }
+  .b27{
+    margin-top: 0px;
+margin-left: 20px;
+    
+  }
+  .b19{
+    margin-bottom: 0px;
+  }
+  .b23{
+    margin-bottom:30px ;
+  }
+  .b25{
+    width: 50%;
+  }
+  .b24{
+
+    margin-top: 500px;
+  
+  }
+  .b23{
+    margin-left: 10px;
+  }
+  .b22{
+   font-size: 11px;
+   margin-left: 10px;
+  }
+  .b21{
+margin-top: 200px;
+width: 50%;
+margin-left: 20px;
+  }
+  .b16{
+    margin-top: 90px;
+    width: 95%;
+    margin-left: 10px;
+  }
+  .b20{
+    font-size: 12px;
+    color: #16aa51;
+    background-color: #daeed9;
+    margin-left: 110px;
+    margin-top: -40px;
+    padding-left: 10px;
+  
+  }
+  .b19{
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 0px;
+    margin-top: -330px;
+    margin-left: 10px;
+  
+  }
+
+  .b17{
+    float:left;
+    font-size: 32px;
+    text-shadow: 1px 1px #92c83e;
+ margin-top: 40px;
+    margin-left: 10px;
+
+  }
+  .b15{
+    display: contents;
+    
+  }
+  .b14{
+    font-size: 16px;
+    font-weight: 400;
+    color: gray;
+    margin-left: 30px;
+    margin-bottom: 100px;
+  }
+  .b13{
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  .b12{
+    font-size: 32px;
+    font-weight: 450;
+    text-shadow: 1px 1px #92c83e;
+    margin-left: 20px;
+    line-height: 40px;
+  }
+  .b11{
+    display: none;
+  }
+  .b9{
+    display: none;
+  }
+  .b8{
+    display: none;
+  }
+  .b7{
+    display: none;
+  }
+.b6{
+  display: none;
+
+}
+.b5{
+  display: flex;
 }
 
-.App-link {
-  color: #61dafb;
+  .b3{
+    margin-left: 125px;
+   margin-top: -130px;
+  }
+  .b4{
+    margin-left: 125px;
+   font-size:16px ;
+   margin-top: -20px;
+   font-weight: 400;
+   color: 1px lightgrey;
+   margin-bottom: 40px;
+  }
+  .b2{
+    width: 20%;
+    margin-bottom: 60px;
+    margin-left: 20px;
+  }
+  .b10{
+    font-size: 32px;
+    text-shadow: 1px 1px #92c83e;
+    letter-spacing: -1px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  .b1{
+    display: none;
+
+  }
+  .b0{
+    display: contents;
+  }
+  .a1 {
+    display: none;
+  }
+  .a2{
+    display: flex;
+    width: 90%;
+    margin-left: 25px;
+    
+  }
+.a3{
+text-align: left;
+font-size: 23px;
+font-weight: 400;
+margin-left: 30px;
+margin-top: 40px;
+line-height: 25px;
+letter-spacing: 1;
+text-shadow: none;
+
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+ .a8{
+  display: none;
+ }
+ .a9{
+  display: flex;
+ }
+ .a10{
+  width: 70%;
+  margin-left: 20px;
+  margin-right: 0px;
+
+ }
+ .a11{
+  font-size: 22px;
+  font-weight: 600;
+  
+  margin-bottom: 0px;
+ }
+  .a12{
+    font-size: 16px;
+    font-weight: 400px;
+    color: 1px lightgrey;
+    
+
   }
-  to {
-    transform: rotate(360deg);
-  }
+.aa1{
+  display: contents;
 }
+
+}
+
+ 
+ 
+
